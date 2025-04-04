@@ -79,16 +79,29 @@ if __name__ == "__main__":
     )
 
     api_desc = """
-删除商品
-【接口地址】：https://fakestoreapi.com/products/1
-【请求方式】：DELETE
-【接口描述】：删除指定商品。
-【请求参数 - JSON】：
-无
-【响应结果 - JSON】：
+删除部门
+最后更新：2020/03/30
+请求方式：GET（HTTPS）
+请求地址：https://qyapi.weixin.qq.com/cgi-bin/department/delete?access_token=ACCESS_TOKEN&id=ID
+ 
+参数说明 ：
+ 
+权限说明：
+应用须拥有指定部门的管理权限。
+第三方仅通讯录应用可以调用。
+返回结果：
 {
-  "message": "Product deleted successfully"
+   "errcode": 0,
+   "errmsg": "deleted"
 }
+参数说明：
+
+参数	必须	说明
+access_token	是	调用接口凭证
+id	是	部门id。（注：不能删除根部门；不能删除含有子部门、成员的部门）
+参数	说明
+errcode	返回码
+errmsg	对返回码的文本描述内容
 
 """
 
