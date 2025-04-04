@@ -7,7 +7,7 @@ class ChatBotEngine:
     def __init__(
         self,
         model_path: str,
-        max_batch_size: int = 1,
+        max_batch_size: int = 2,
         max_tokens: int = 10240,
         temperature: float = 0.1,
         device: str = "cuda:0"
@@ -66,6 +66,7 @@ class ChatClient:
 
         for chunk in engine.stream_chat(messages):
             print(chunk, end="", flush=True)
+        print('\n')
 
 
 # 示例用法 --------------------------------------------------
@@ -78,27 +79,16 @@ if __name__ == "__main__":
     )
 
     api_desc = """
-登录接口
------------------------
-Method: POST
-URL: /api/ymlogin/
-请求参数:
-- username (string) - 用户名（必填）- 限制11位手机号
-- password (string) - 密码（必填）- 长度6~12位
-返回值:
-- code (int) - 状态码（0表示登录成功，其他表示登录失败）
-- msg (string) - 操作结果消息
-- user (string) - 登录成功后返回的用户名
-- error (string) - 错误消息（当发生异常时存在）
-HTTP状态码:
-- 200 - 请求成功，登录成功
-- 403 - 用户名或密码错误
-- 404 - 账号已过期
-- 500 - 内部服务器错误
-使用示例: POST /api/ymlogin/
-Content-Type: application/x-www-form-urlencoded
-Body: username=user123&password=pass123
-注意: 该接口对IP地址进行限制，每个IP每天最多访问30次。用户必须输入有效的用户名和密码才能登录。登录成功后，用户的session会被创建并记录在数据库中。如果登录过程中出现异常，接口将返回错误信息。接口会记录用户的登录行为。
+删除商品
+【接口地址】：https://fakestoreapi.com/products/1
+【请求方式】：DELETE
+【接口描述】：删除指定商品。
+【请求参数 - JSON】：
+无
+【响应结果 - JSON】：
+{
+  "message": "Product deleted successfully"
+}
 
 """
 
