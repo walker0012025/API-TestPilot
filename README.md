@@ -58,7 +58,7 @@ API-TestPilot  将从以下几个维度思考和生成对应的接口测试用�
 8、生成用例：控制台输入python api_testpilot_generate_case.py 执行，开始生成接口测试用例（源码已准备接口信息，可查看源码后自行修改）。
 
 ### ⚡ API-TestPilot 结合Ai执行接口测试框架可实现有接口测试用例即可自动执行测试
-### ⚡ 框架开发及相关技术可找测试开发俊哥学习
+### ⚡ 框架开发及相关技术可找测试开发俊哥学习，以下为平台根据生成的测试用例自动执行接口测试
 
 ![Image](https://github.com/walker0012025/API-TestPilot/blob/main/data/1743762862000.gif)
 
