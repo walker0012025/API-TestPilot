@@ -1,5 +1,5 @@
 # API-TestPilot
-API-TestPilot，AI驱动的高效接口测试用例生成模型 | AI-Driven Efficient API Test Case Generation Model
+API-TestPilot，AI驱动的高效接口测试用例生成模型 | AI-Driven Efficient API Test Case Generation Mode
 
 ### 🌟 API-TestPilot 模型简介
 
