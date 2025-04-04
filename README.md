@@ -3,11 +3,11 @@ API-TestPilot，AI驱动的高效接口测试用例生成模型 | AI-Driven Effi
 
 ### 🌟 API-TestPilot 模型简介
 
-API-TestPilot，中文名**API 试飞员**，是一名Ai生成**接口测试用例**的Ai人工智能模型，旨在利用Ai技术帮助软件测试工程师提升**接口测试**工作效率和跟上Ai时代技术发展要求。引用 API-TestPilot 请注明引用来源。
+API-TestPilot，中文名**API 试飞员**，是一名Ai生成**接口测试用例**的Ai人工智能模型，旨在利用Ai技术帮助软件测试工程师提升**接口测试**工作效率和跟上Ai时代技术发展要求。（支持商用，引用 API-TestPilot 请注明引用来源。开源项目，作者不承担任何责任。）
 
 ### 🚀 API-TestPilot 核心特征
 
-在使用 API-TestPilot 模型时，只需要将接口信息给到模型，API-TestPilot 就可以帮你生成对应的接口测试用例。
+在使用 API-TestPilot 模型时，只需要将接口文档信息给到模型，API-TestPilot 就可以帮你生成对应的接口测试用例。
 
 部署模型简单及需要的硬件成本不大，API-TestPilot 模型**蒸馏和硬件消耗成本380RMB**，经测试推理过程实际**消耗显存20G**左右，可在**Tesla V100 单卡32G显存**的设备流畅运行（未加速），**单卡24G显存**的设备理论可行（未测试）。
 
