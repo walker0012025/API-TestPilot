@@ -13,7 +13,7 @@ API-TestPilot，中文名**API 试飞员**，是一名Ai生成**接口测试用�
 
 API-TestPilot  将从以下几个维度思考和生成对应的接口测试用例：
 
-![Image](https://github.com/user-attachments/assets/488c8f8a-0001-4cf7-bde1-781bf2a270e1)
+![Image](https://github.com/walker0012025/API-TestPilot/blob/main/data/20250404111524_01.png)
 
 ### 💡 API-TestPilot 要点提醒
 
@@ -35,7 +35,7 @@ API-TestPilot  将从以下几个维度思考和生成对应的接口测试用�
 
 2、这些小伙伴具备从**蒸馏、清洗、测试模型训练、测试模型评测、测试模型部署**等全过程技术，尤其Ai技术在测试行业的应用，处于行业领先。企业在选择小伙伴时为了避免冒充，如果有验真需求，可通过这些小伙伴联系到测试开发俊哥，测试开发俊哥将提供证明，证明将包含对应小伙伴的操作记录。以下为贡献名单（排名不分先后）。
 
-![Image](https://github.com/user-attachments/assets/510a68ab-7f1b-4859-b9f3-7926c0a33cbb)
+![Image](https://github.com/walker0012025/API-TestPilot/blob/main/data/20250404122210.png)
 
 ### 📌 API-TestPilot 实操教程
 
@@ -60,7 +60,7 @@ API-TestPilot  将从以下几个维度思考和生成对应的接口测试用�
 ### ⚡ API-TestPilot 结合Ai执行接口测试框架可实现有接口测试用例即可自动执行测试
 ### ⚡ 框架开发及相关技术可找测试开发俊哥学习
 
-https://github.com/user-attachments/assets/c2d3a33f-be78-4db5-87e2-e2a546e49eea
+https://github.com/walker0012025/API-TestPilot/blob/main/data/ai-testpilot-video.mp4
 
 ### 🙏 来自 API-TestPilot 及测试开发俊哥的致谢 
 
