@@ -60,7 +60,7 @@ API-TestPilot  将从以下几个维度思考和生成对应的接口测试用�
 ### ⚡ API-TestPilot 结合Ai执行接口测试框架可实现有接口测试用例即可自动执行测试
 ### ⚡ 框架开发及相关技术可找测试开发俊哥学习
 
-https://github.com/walker0012025/API-TestPilot/blob/main/data/ai-testpilot-video.mp4
+![Image](https://github.com/walker0012025/API-TestPilot/blob/main/data/1743762862000.gif)
 
 ### 🙏 来自 API-TestPilot 及测试开发俊哥的致谢 
 
