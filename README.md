@@ -3,7 +3,7 @@ API-TestPilot，AI驱动的高效接口测试用例生成模型 | AI-Driven Effi
 
 ### 🌟 API-TestPilot 项目简介
 
-> API-TestPilot，中文名**API 试飞员**，是一名Ai生成**接口测试用例**的Ai人工智能模型，旨在利用Ai技术帮助软件测试工程师提升**接口测试**工作效率和跟上Ai时代技术发展要求。引用 API-TestPilot 请注明引用来源。
+API-TestPilot，中文名**API 试飞员**，是一名Ai生成**接口测试用例**的Ai人工智能模型，旨在利用Ai技术帮助软件测试工程师提升**接口测试**工作效率和跟上Ai时代技术发展要求。引用 API-TestPilot 请注明引用来源。
 
 ### 🚀 API-TestPilot 核心特征
 
