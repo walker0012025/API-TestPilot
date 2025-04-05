@@ -1,4 +1,4 @@
-# API-TestPilot
+# API-TestPilot 中文 | [English](https://github.com/walker0012025/API-TestPilot/blob/main/EN-README.md)
 API-TestPilot，AI驱动的高效接口测试用例生成模型 | AI-Driven Efficient API Test Case Generation Model
 
 ### 🌟 API-TestPilot 模型简介
