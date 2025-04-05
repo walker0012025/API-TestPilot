@@ -45,7 +45,7 @@ API-TestPilot  将从以下几个维度思考和生成对应的接口测试用�
 
 2、版本依赖：python版本3.12.4，pip建议23.3.1版本，建议用虚拟环境，非常不建议物理环境。
 
-3、项目下载：请git clone 此项目链接，下载项目到你的服务器。
+3、项目下载：请git clone https://github.com/walker0012025/API-TestPilot.git ，下载项目到你的服务器。
 
 4、进入项目：cd API-TestPilot。
 
