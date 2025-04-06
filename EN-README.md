@@ -7,7 +7,7 @@ API-TestPilot is an AI-powered model designed to generate API test cases automat
 
 ### 🎉 API-TestPilot Version News
 - 🎁 2025.04.05 API-TestPilot 1.0 is officially open-sourced and released.
-- 🎁 2025.04.06 API-TestPilot 1.1 fixed the duplicate generation issue, scheduled for release (planned for April 7, currently in internal testing).
+- 🎁 2025.04.06 API-TestPilot 1.1 fixed the long-text generation duplication issue, scheduled for release (planned for April 7, currently in internal testing).
 
 ### 🚀 API-TestPilot Core Features
 
