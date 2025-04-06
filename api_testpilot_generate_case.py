@@ -73,7 +73,7 @@ class ChatClient:
 if __name__ == "__main__":
     
     bot_engine = ChatBotEngine(
-        model_path="/root/.cache/modelscope/hub/models/walker001/api-testpilot-model", # 替换成模型下载的地址，替换成模型下载的地址，替换成模型下载的地址
+        model_path="/root/.cache/modelscope/hub/models/walker001/api-testpilot-model", # 一般不用改，报错就替换成模型下载的地址
         max_tokens=10240,
         temperature=0.1
     )
