@@ -8,6 +8,7 @@ API-TestPilot，中文名**API 试飞员**，是一名Ai生成**接口测试用�
 ### 🎉 API-TestPilot 模型新闻
 - 🎁 2025.04.05 API-TestPilot 1.0 版本正式开源，正式上线。
 - 🎁 2025.04.06 API-TestPilot 1.1 版本修复长文本生成重复问题，待上线（预计4月7日上线，在脚本跑内测中）
+- 🎁 2025.04.07 API-TestPilot 1.1 版本修复长文本生成重复问题，已上线（规划1.2版本中）
 
 ### 🚀 API-TestPilot 核心特征
 
