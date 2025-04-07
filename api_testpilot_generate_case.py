@@ -128,33 +128,37 @@ if __name__ == "__main__":
     )
 
     api_desc = """
-提交学员练习评分接口
------------------------ 
-Method: POST
-URL: /api/subLearnScore/
-请求参数
-Headers:
-• Content-Type: application/x-www-form-urlencoded
-Body 参数:
-• c_s_id (string) - 课程安排ID（必填）
-• code (string) - 学员提交的代码/答案（必填），长度2万个字符
-• p_q_co (string) - 实战题目内容（必填，若无则传"null"字符串）
-• c_na (string) - 课程名称（必填）
-• s_c_na (string) - 小节课程名称（必填）
-返回值
-• code (int) - 状态码
-  • 0: 提交成功
-  • 1: 参数缺失
-  • 2: 处理AI评分失败
-• msg (string) - 操作结果消息
-• score (float) - AI评分结果（仅code=0时存在）
-• feedback (string) - AI反馈内容（仅code=0时存在）
-• error (string) - 错误详情（仅发生异常时存在）
-HTTP状态码
-• 200 - 请求成功（无论提交是否完成，需结合code字段判断具体结果）
-• 401 - 用户未登录
-• 400 - 请求参数不合法
-• 500 - 内部服务器错误
+商品搜索
+​
+简要描述：
+搜索建议查询
+请求URL：
+https://api-hmugo-web.itheima.net/api/public/v1/goods/qsearch
+请求方式：
+GET
+参数：
+返回示例
+{
+    "message": [
+        {
+            "goods_id": 57444,
+            "goods_name": "创维（Skyworth）42X6 42英寸10核智能酷开网络平板液晶电视（黑色）"
+        }
+    ],
+    "meta": {
+        "msg": "获取成功",
+        "status": 200
+    }
+}
+返回参数说明
+备注
+更多返回错误代码请看首页的错误代码描述
+
+参数名	必选	类型	说明
+query	是	string	关键字
+参数名	类型	说明
+goods_id	number	商品id
+goods_name	string	商品名称
 """
 
     ChatClient.run(bot_engine, api_desc)
