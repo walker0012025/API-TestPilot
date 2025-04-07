@@ -124,7 +124,7 @@ if __name__ == "__main__":
     bot_engine = ChatBotEngine(
         model_path="/root/.cache/modelscope/hub/models/walker001/api-testpilot-model", #模型下载路径，一般不用修改，报错可以替换为实际模型下载路径
         max_tokens=5120,
-        temperature=0.1
+        temperature=0.8
     )
 
     api_desc = """
