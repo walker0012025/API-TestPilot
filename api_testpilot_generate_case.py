@@ -93,20 +93,7 @@ class ChatBotEngine:
         })
         thread.start()
         
-        accumulated = 0
-        for token in streamer:
-            token_len = len(token)
-            
-            if accumulated >= 5000:
-                break
-                
-            if accumulated + token_len > 5000:
-                remain = 5000 - accumulated
-                yield token[:remain]
-                break
-                
-            accumulated += token_len
-            yield token
+        yield from streamer
 
 class ChatClient:
     @staticmethod
@@ -122,14 +109,14 @@ class ChatClient:
 
 if __name__ == "__main__":
     bot_engine = ChatBotEngine(
-        model_path="/root/.cache/modelscope/hub/models/walker001/api-testpilot-model", #模型下载路径，一般不用修改，报错可以替换为实际模型下载路径
+        model_path="/root/.cache/modelscope/hub/models/walker001/api-testpilot-model",
         max_tokens=5120,
-        temperature=0.8
+        temperature=0.4
     )
 
     api_desc = """
 商品搜索
-​
+
 简要描述：
 搜索建议查询
 请求URL：
