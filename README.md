@@ -86,7 +86,7 @@ API-TestPilot  将从以下几个维度思考和生成对应的接口测试用�
 
 ### 🙏 来自 API-TestPilot 及测试开发俊哥的致谢 
 
-1、感谢智谱Ai，API-TestPilot   [是基于智谱Ai旗下ZhipuAI/glm-4-9b-chat模型进行训练。](https://github.com/THUDM/GLM-4)
+1、感谢智谱Ai
 
-2、感谢modelscope魔搭社区提供模型仓库，API-TestPilot [模型文件存储在modelscope魔搭社区仓库上](https://github.com/modelscope)
+2、感谢modelscope魔搭社区
 
