@@ -69,9 +69,6 @@ git clone https://github.com/walker0012025/API-TestPilot.git
 
 ### 🙏 Thanks from API-TestPilot and Brother Jun of Test Development
 
-1.Thank to Zhipu AI，API-TestPilot   [The training is based on the ZhipuAI/glm-4- 9b-chat model owned by Intelligent Intelligence Ai.](https://github.com/THUDM/GLM-4)
+1.Thank to Zhipu AI
 
-2.Thank to deepseek，API-TestPilot [Distillation comes from it](https://github.com/deepseek-ai/DeepSeek-R1)
-
-3.Thank to modelscope，API-TestPilot [Model files are stored on the modelscope community repository](https://github.com/modelscope)
-
+2.Thank to modelscope
