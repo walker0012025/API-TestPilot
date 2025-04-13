@@ -1,5 +1,5 @@
 # API-TestPilot
-API-TestPilot，AI-Generated API Test Case Model
+API-TestPilot，API-TestPilot: An AI model collaboratively trained by JunGe (Test Development Expert) and his students to generate API test cases.
 
 ### 🌟 Overview of API-TestPilot
 
