@@ -109,7 +109,7 @@ class ChatClient:
 
 if __name__ == "__main__":
     bot_engine = ChatBotEngine(
-        model_path="/root/.cache/modelscope/hub/models/walker001/api-testpilot-model",
+        model_path="/root/.cache/modelscope/hub/models/walker001/api-testpilot-model-v1.2",
         max_tokens=5120,
         temperature=0.4
     )
