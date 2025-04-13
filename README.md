@@ -56,13 +56,13 @@ API-TestPilot  将从以下几个维度思考和生成对应的接口测试用�
 
 1、硬件设备：准备一张卡，建议32G显存，24G显存理论可以（已有测试同学在22G的2080TI上成功运行）。
 
-2、版本依赖：python版本3.12.4，pip建议23.3.1版本，建议用虚拟环境，非常不建议物理环境。
+2、版本依赖：python版本3.12.4，pip建议23.3.1版本。
 
 3、项目下载：请git clone https://github.com/walker0012025/API-TestPilot.git ，下载项目到您的服务器。
 
 4、进入项目：cd API-TestPilot。
 
-5、安装依赖：pip install -r requirements.txt （建议虚拟环境）。
+5、安装依赖：pip install -r requirements.txt。
 
 6、下载模型：控制台输入python download_api_testpilot_model.py并执行，下载时间可能较长，请耐心等待下载完毕。
 
