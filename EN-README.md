@@ -67,7 +67,7 @@ git clone https://github.com/walker0012025/API-TestPilot.git
 
 ![Image](https://github.com/walker0012025/API-TestPilot/blob/main/data/1743762862000.gif)
 
-### 🙏 Thanks 
+### 🙏 Citation 
 ```bibtex
 @misc{glm2024chatglm,
     title={ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools}, 
