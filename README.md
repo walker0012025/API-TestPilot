@@ -80,11 +80,11 @@ API-TestPilot  将从以下几个维度思考和生成对应的接口测试用�
 - 🎁 Ai Checkin 技术 （从源头、代码、单元等维度对项目进行全流程管控）
 - 🎁 Ai 模型测试技术 （从模型评测、压测等各种维度实现对模型进行测试）
 - 🎁 其他Ai测试技术等
-- 🎁 学习及试听可以通过社交渠道上联系测试开发俊哥（小红书、抖音、知乎、B站），Ai测试开发处于红利期。
 
-### ⚡ 以下为平台根据生成的接口测试用例自动执行接口测试
+### ⚡ 当您看到类似下图的信息出现时，恭喜你成功了。
+### ⚡ Ai测试开发处于红利期，进阶AI测试开发，可以通过社交渠道搜索测试开发俊哥（小红书、抖音、知乎、B站）
 
-![Image](https://github.com/walker0012025/API-TestPilot/blob/main/data/1743762862000.gif)
+![Image](https://github.com/walker0012025/API-TestPilot/blob/main/data/data_01.PNG)
 
 ### 🙏 来自 API-TestPilot 及测试开发俊哥的致谢 
 
