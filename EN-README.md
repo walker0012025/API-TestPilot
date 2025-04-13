@@ -1,5 +1,5 @@
 # API-TestPilot
-API-TestPilot，AI-Driven Efficient API Test Case Generation Model
+API-TestPilot，AI-Generated API Test Case Model
 
 ### 🌟 Overview of API-TestPilot
 
