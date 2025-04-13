@@ -1,9 +1,8 @@
 # API-TestPilot 中文 | [English](https://github.com/walker0012025/API-TestPilot/blob/main/EN-README.md)
-API-TestPilot，由测试开发俊哥及其学员共同训练的AI生成接口测试用例模型。
 
 ### 🌟 API-TestPilot 模型简介
 
-API-TestPilot，中文名**API 试飞员**，是一名Ai生成**接口测试用例**的Ai人工智能模型，旨在利用Ai技术帮助软件测试工程师提升**接口测试**工作效率和跟上Ai时代技术发展要求。
+API-TestPilot，中文名**API 试飞员**，由测试开发俊哥及其学员共同训练的AI生成接口测试用例模型。旨在利用Ai技术帮助软件测试工程师提升**接口测试**工作效率和跟上Ai时代技术发展要求。
 
 ### 🍓 API-TestPilot 使用必读
 - 🔥 鉴于2023年以来，部分IT技能培训机构的教职员工及销售人员在知识产权和原创内容方面存在不尊重行为，让我不胜其烦，特此明确：本模型不向IT技能类培训机构（包括从事IT技能培训的个人博主）授权。
