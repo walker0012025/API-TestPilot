@@ -57,19 +57,17 @@ API-TestPilot  将从以下几个维度思考和生成对应的接口测试用�
 
 1、硬件设备：准备一张卡，建议32G显存，24G显存理论可以（已有测试同学在22G的2080TI上成功运行）。
 
-2、版本依赖：python版本3.12.4，pip建议23.3.1版本。
+2、项目下载：请git clone https://github.com/walker0012025/API-TestPilot.git 。
 
-3、项目下载：请git clone https://github.com/walker0012025/API-TestPilot.git ，下载项目到您的服务器。
+3、进入项目：cd API-TestPilot。
 
-4、进入项目：cd API-TestPilot。
+4、安装依赖：pip install -r requirements.txt。
 
-5、安装依赖：pip install -r requirements.txt。
+5、下载模型：控制台输入python download_api_testpilot_model.py并执行。
 
-6、下载模型：控制台输入python download_api_testpilot_model.py并执行，下载时间可能较长，请耐心等待下载完毕。
+6、修改路径：打开api_testpilot_generate_case.py 源码，将model_path的路径替换为您的实际路径。
 
-7、修改路径：打开api_testpilot_generate_case.py 源码，将model_path的路径替换为您的实际路径（一般不用改，报错就切换到根目录 find -name api-testpilot-model 查找一下，找着和源码中相似的路径替换）。
-
-8、生成用例：控制台输入python api_testpilot_generate_case.py 执行，开始生成接口测试用例（源码已准备接口信息，可查看源码后自行修改）。
+7、生成用例：控制台输入python api_testpilot_generate_case.py 执行，开始生成接口测试用例。
 
 ### 📝 API-TestPilot开源模型非Ai测试技术核心，仅提供了Ai生成接口测试用例的能力
 ### 📝 API-TestPilot模型覆盖的接口测试场景可能会比常规测试设计的更全。
