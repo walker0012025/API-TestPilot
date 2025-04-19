@@ -63,7 +63,7 @@ API-TestPilot  将从以下几个维度思考和生成对应的接口测试用�
 
 4、安装依赖：pip install -r requirements.txt。
 
-5、下载模型：控制台输入python download_api_testpilot_model.py并执行。
+5、下载模型：控制台执行download_api_testpilot_model.py。
 
 6、修改路径：打开api_testpilot_generate_case.py 源码，将model_path的路径替换为您的实际路径。
 
