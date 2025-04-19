@@ -63,11 +63,9 @@ API-TestPilot  将从以下几个维度思考和生成对应的接口测试用�
 
 4、安装依赖：pip install -r requirements.txt。
 
-5、下载模型：控制台执行download_api_testpilot_model.py。
+5、下载模型：执行download_api_testpilot_model.py。
 
-6、修改路径：打开api_testpilot_generate_case.py 源码，将model_path的路径替换为您的实际路径。
-
-7、生成用例：控制台输入python api_testpilot_generate_case.py 执行，开始生成接口测试用例。
+6、生成用例：执行api_testpilot_generate_case.py，开始生成接口测试用例。
 
 ### 📝 API-TestPilot开源模型非Ai测试技术核心，仅提供了Ai生成接口测试用例的能力
 ### 📝 API-TestPilot模型覆盖的接口测试场景可能会比常规测试设计的更全。
