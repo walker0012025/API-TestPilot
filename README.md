@@ -1,4 +1,4 @@
-# API-TestPilot 中文 | [English](https://github.com/walker0012025/API-TestPilot/blob/main/EN-README.md)  | [API Server](https://github.com/walker0012025/API-TestPilot/blob/main/API-README.md)
+# API-TestPilot 中文 | [English](https://github.com/walker0012025/API-TestPilot/blob/main/EN-README.md) 
 
 ### 🌟 API-TestPilot 模型简介
 
@@ -83,6 +83,16 @@ API-TestPilot  将从以下几个维度思考和生成对应的接口测试用�
 ### ⚡ Ai测试开发处于红利期，进阶AI测试开发，可以通过社交渠道搜索测试开发俊哥（小红书、抖音、知乎、B站）
 
 ![Image](https://github.com/walker0012025/API-TestPilot/blob/main/data/data_01.PNG)
+
+### 📌 API-TestPilot API 调用实操教程
+
+1、项目下载：请git clone https://github.com/walker0012025/API-TestPilot.git 。
+
+2、进入项目：cd API-TestPilot/api。
+
+3、安装依赖：pip install -r requirements.txt。
+
+4、生成用例：执行client.py。
 
 ### 🙏 引用
 ```bibtex
