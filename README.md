@@ -1,4 +1,4 @@
-# API-TestPilot 中文 | [English](https://github.com/walker0012025/API-TestPilot/blob/main/EN-README.md)
+# API-TestPilot 中文 | [English](https://github.com/walker0012025/API-TestPilot/blob/main/EN-README.md)  | [API Server](https://github.com/walker0012025/API-TestPilot/blob/main/API-README.md)
 
 ### 🌟 API-TestPilot 模型简介
 
