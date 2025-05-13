@@ -78,8 +78,8 @@ API-TestPilot  将从以下几个维度思考和生成对应的接口测试用�
 - 🎁 Ai 模型测试技术 （从模型评测、压测等各种维度实现对模型进行测试）
 - 🎁 其他Ai测试技术等
 
-### ⚡ Ai测试开发处于红利期，进阶AI测试开发，可扫描下方二维码获取AI测试开发教程资料
-![Image](https://github.com/walker0012025/API-TestPilot/blob/main/data/00ce1c036f2c81b74e74a2e11381e069_origin.png)
+### ⚡ Ai测试开发处于红利期，进阶AI测试开发，可扫描下方二维码领取AI测试开发教程资料
+![Image](https://github.com/walker0012025/API-TestPilot/blob/main/data/1.png)
 
 ### ⚡ 当您看到类似下图的信息出现时，恭喜您成功了。
 
