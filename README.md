@@ -84,7 +84,7 @@ API-TestPilot  将从以下几个维度思考和生成对应的接口测试用�
 - 🎁 其他Ai测试技术等
 
 ### ⚡ Ai测试开发处于红利期，可扫描下方二维码领取AI测试开发教程资料
-![Image](https://github.com/walker0012025/API-TestPilot/blob/main/data/1.png)
+![Image](https://github.com/walker0012025/API-TestPilot/blob/main/data/7ceda900fedcc4a23952add92960958f_origin.png)
 
 ### ⚡ 当您看到类似下图的信息出现时，恭喜您成功了。
 
